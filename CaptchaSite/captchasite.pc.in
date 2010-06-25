@@ -1,0 +1,6 @@
+Name: CaptchaSite
+Description: CaptchaSite
+Version: 0.1
+
+Requires: 
+Libs: -r:@expanded_libdir@/@PACKAGE@/CaptchaSite.dll

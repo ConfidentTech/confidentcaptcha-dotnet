@@ -1,0 +1,48 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captcha", "CaptchaLib\Captcha.csproj", "{7414E364-6A58-40B9-9C1B-846F167504A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaSite", "CaptchaSite\CaptchaSite.csproj", "{DAB7A774-6244-4FB5-BD7F-FB4472969BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7414E364-6A58-40B9-9C1B-846F167504A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7414E364-6A58-40B9-9C1B-846F167504A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7414E364-6A58-40B9-9C1B-846F167504A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7414E364-6A58-40B9-9C1B-846F167504A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB7A774-6244-4FB5-BD7F-FB4472969BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7A774-6244-4FB5-BD7F-FB4472969BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB7A774-6244-4FB5-BD7F-FB4472969BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB7A774-6244-4FB5-BD7F-FB4472969BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Captcha.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.TabWidth = 4
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.BeforeMethodCallParentheses = False
+		$3.BeforeMethodDeclarationParentheses = False
+		$3.BeforeConstructorDeclarationParentheses = False
+		$3.BeforeDelegateDeclarationParentheses = False
+		$3.NewParentheses = False
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
+
