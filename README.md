@@ -12,17 +12,16 @@ REQUIREMENTS
 
 USAGE
 -----
-
-  1. Sign up for Confident CAPTCHA at:
-     <http://confidenttechnologies.com/purchase/CAPTCHA_signup.php>
-  2. Create an account at: <https://login.confidenttechnologies.com>
-  3. Modify web.config, filling in the API credentials from:
-     <https://login.confidenttechnologies.com/dashboard/sites/>
-  4. Try out the sample code
-  5. Integrate the library into your code.  You need to compile CaptchaLib.cs
-     and a (customized) web.config in your project.  Look at Default.aspx and
-     Single.aspx for integration ideas. Be sure to include jQuery in your 
-     page.
+ 1. Sign up for Confident CAPTCHA at:
+    <http://confidenttechnologies.com/purchase/CAPTCHA_signup.php>
+ 2. Create an account at: <https://login.confidenttechnologies.com>
+ 3. Modify web.config, filling in the API credentials from:
+    <https://login.confidenttechnologies.com/dashboard/sites/>
+ 4. Try out the sample code
+ 5. Integrate the library into your code.  You need to compile CaptchaLib.cs
+    and a (customized) web.config in your project.  Look at Default.aspx and
+    Single.aspx for integration ideas. Be sure to include jQuery in your 
+    page.
 
 Please send your questions and feedback to:
 <https://login.confidenttechnologies.com/dashboard/contactus/general/>
@@ -31,7 +30,7 @@ FILES
 -----
 The included files are:
 
- * README.TXT - This document
+ * README.md - This document (In markdown format)
  * CaptchaLib/CaptchaLib.sln - The Visual Studio or MonoDevelop solution file
  * CaptchaLib/Captcha.csproj - The Visual Studio or MonoDevelop project file
    for the Captcha Library
