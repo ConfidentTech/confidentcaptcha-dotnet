@@ -1,6 +1,6 @@
 .NET Library and Sample Code for Confident CAPTCHA
 ==================================================
-version 20100610_DOTNET.0.1
+version 20100610\_DOTNET\_0.1
 
 Thank you for downloading this library and sample code.
 
@@ -53,9 +53,9 @@ The included files are:
 
 VERSION HISTORY
 ---------------
-- 20100610_DOTNET_0.1 - October 4th, 2010
+- 20100610\_DOTNET\_0.1 - October 4th, 2010
   * Make configuration clearer
   * Add notes to Multiple method saying that it isn't complete
 
-- 20100610_DOTNET - June 10th, 2010
+- 20100610\_DOTNET - June 10th, 2010
   * Original release
